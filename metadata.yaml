@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37171'
     url: http://www.gutenberg.org/2009/agents/37171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34695#Wenn-mein-Herz-gesund-w-r
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2010-12-19'
 gutenberg_type: Text
